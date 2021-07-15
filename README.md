@@ -80,7 +80,7 @@ The first step in getting acquainted with Juncture is to create a simple Visual 
 
 ![](/images/view-share.png)
 
-Each Visual Essay has a default stable URL that can be used for viewing and sharing the essay.  Others URLs (including using your own custom domain) for an essay can be used when an optional Juncture site is created. This [guide](https://github.com/jstor-labs/juncture/wiki/Viewing-and-Sharing-Visual-Essays) provides simple instructions for accessing and sharing your Visual Essays.
+Each Visual Essay has a default stable URL that can be used for viewing and sharing the essay.  Other URLs (including your own custom domain) for an essay can be used when an optional Juncture site is created. This [guide](https://github.com/jstor-labs/juncture/wiki/Viewing-and-Sharing-Visual-Essays) provides simple instructions for accessing and sharing your Visual Essays.
 
 ## Create a Juncture site
 
